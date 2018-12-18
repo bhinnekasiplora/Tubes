@@ -59,7 +59,7 @@
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
         <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">SIPPLAH</h1>
+        <h1 class="text-uppercase mb-0">SIPPLAAAHHHHH</h1>
         <hr class="star-light">
         <h2 class="font-weight-light mb-0">Sistem Pelaporan Lokasi Rawan Bencana</h2>
       </div>
