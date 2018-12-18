@@ -2,7 +2,7 @@
 $namaServer = "localhost";
 $namaPengguna = "root";
 $password = "bhinneka";
-$nama_db = "Login";
+$nama_db = "login";
 
 $koneksi = new mysqli($namaServer, $namaPengguna, $password, $nama_db);
 
